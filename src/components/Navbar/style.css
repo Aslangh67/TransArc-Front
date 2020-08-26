@@ -9,4 +9,7 @@ nav{
 .logo{
    height: 10vh;
 }
+.nav-link{
+   margin-left: 50vw;
+}
 

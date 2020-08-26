@@ -38,9 +38,9 @@
   @keyframes reveal {
       0% {opacity:0;width:0px;}
       20% {opacity:50;}
-      40% {opacity: 70; width:355px;}
+      40% {opacity: 70; width:450px;}
       80% {opacity:1;}
-      100% {opacity:0;width:355px;}
+      100% {opacity:0;width:450px;}
   }
   
   @keyframes faded {
